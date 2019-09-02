@@ -33,7 +33,7 @@
 
   /**
    * Check if value is primitive.
-   */
+   */x
   function isPrimitive (value) {
     return (
       typeof value === 'string' ||
